@@ -2,7 +2,7 @@
 
 ## B8IT108 Data and Web Mining -  Machine Learning Workflow Program
 
-## February 2020 + March 2020
+## February 2020 + March 2020 + April 2020
 
 ## Ciaran Finnegan - Student No. 10524150
 ## Dermot Madsen   - Student No. 10522567
